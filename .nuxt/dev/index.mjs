@@ -183,7 +183,7 @@ const _aUbtDlbwZZ = (function(nitro) {
 
 const rootDir = "/Users/admin/Documents/developpenent/H24-App/H-24_Project";
 
-const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1"},{"charset":"utf-8"}],"link":[],"style":[],"script":[],"noscript":[]};
+const appHead = {"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"}],"link":[],"style":[],"script":[],"noscript":[],"title":"Mon Application Nuxt 3"};
 
 const appRootTag = "div";
 
